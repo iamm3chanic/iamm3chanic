@@ -1,9 +1,11 @@
-### Hi there 👋
-### I am Mechanic and it's my github profile :)
-- Student at MSU
+### Welcome to my GitHub profile!
+### I am Mechanic and I am:
+- Student at MSU, Mechanics&Maths dep.
 - Currently working on EVM, data_structures
 - Learning Kubernetes, Agile
-- Want to become DevOps!
+- Studying C, C++, Java
+- Having a great experience of installing and configuring Linux
+- Really excited to become DevOps!
 <!--
 **iamm3chanic/iamm3chanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
