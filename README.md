@@ -4,7 +4,7 @@
 - Currently working on EVM, data_structures
 - Learning Kubernetes, Agile
 - Studying C, C++, Java
-- Having a great experience of installing and configuring Linux
+- On the way to LPIC-1 Linux
 - Really excited to become DevOps!  
 ![My github stats](https://github-readme-stats.vercel.app/api?username=iamm3chanic&show_icons=true&theme=onedark)
 <!--
