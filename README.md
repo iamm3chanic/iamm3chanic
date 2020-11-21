@@ -1,7 +1,7 @@
 ### :zap: Welcome to my GitHub profile! :zap:
 ### I am Mechanic and I am:
 - Student at MSU, Mechanics&Maths dep.
-- Currently working on EVM, data_structures
+- Currently working on dotfiles, data_structures
 - Learning Kubernetes, Agile
 - Studying C, C++, Java
 - On the way to LPIC-1 Linux
