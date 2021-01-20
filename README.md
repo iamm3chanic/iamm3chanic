@@ -4,7 +4,7 @@
 - Currently working on dotfiles, data_structures
 - Learning Kubernetes, Agile
 - Studying C, C++, Java
-- On the way to LPIC-1 Linux
+- On the way to LPIC-2 Linux
 - Really excited to become DevOps!  
 ![My github stats](https://github-readme-stats.vercel.app/api?username=iamm3chanic&show_icons=true&theme=onedark)
 <!--
