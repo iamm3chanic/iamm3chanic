@@ -2,8 +2,9 @@
 ### I am Mechanic and I am:
 - Student at MSU, Mechanics&Maths dep.
 - Currently working on EVM, data_structures
-- Learning Kubernetes, Agile
+- Learning Kubernetes, Docker
 - Studying C, C++, Java
+- Freelancing: Python, C, C++, git
 - On the way to LPIC-2 Linux
 - Really excited to become DevOps!  
 ![My github stats](https://github-readme-stats.vercel.app/api?username=iamm3chanic&show_icons=true&theme=onedark)
