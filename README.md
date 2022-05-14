@@ -3,7 +3,7 @@
 - Student at MSU, Mechanics&Maths dep.
 - Currently working on EVM, data_structures
 - Learning Kubernetes, Docker
-- Studying C, C++, Java
+- Studying: C, C++, Java
 - Freelancing: Python, C, C++, git
 - On the way to LPIC-2 Linux
 - Really excited to become DevOps!  
