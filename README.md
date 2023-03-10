@@ -1,6 +1,6 @@
 ### :zap: Welcome to my GitHub profile! :zap:
 ### I am Mechanic and I am:
-- Student at MSU, Mechanics&Maths, dep. Applied Mechanics and control
+- Student at MSU, Mechanics & Maths, dep. Applied Mechanics & Сontrol
 - Python ML/DS Developer in Aramco Innovations LLC
 - Currently working on exoskeleton
 - Learning Kubernetes, Docker
