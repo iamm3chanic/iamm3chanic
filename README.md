@@ -1,11 +1,12 @@
 ### :zap: Welcome to my GitHub profile! :zap:
 ### I am Mechanic and I am:
-- Student at MSU, Mechanics & Maths, dep. Applied Mechanics & Сontrol
+- MSU graduate, specialty: Applied Mechanics & Сontrol
 - Python ML/DS Developer in Aramco Innovations LLC
-- Currently working on exoskeleton
+- Applying ML in Geology: core segmentation, lithology description
+- Developed algorithm for exoskeleton movement optimization
 - Learning Kubernetes, Docker
 - Freelancing: Python, C, C++
-- On the way to LPIC-2 Linux
+- LPIC-1 Linux
 - Really excited to become DevOps!  
 ![My github stats](https://github-readme-stats.vercel.app/api?username=iamm3chanic&show_icons=true&theme=onedark)
 <!--
