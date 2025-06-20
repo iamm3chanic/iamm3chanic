@@ -1,7 +1,7 @@
 ### Welcome to my GitHub profile! :wave:
 ### I am Mechanic and I am:
 - [Moscow State University](https://msu.ru/) graduate, MCS, specialty: Applied Mechanics & Сontrol
-- Python ML/DS Developer in [Aramco](https://www.aramco.com/) Innovations LLC
+- Python ML/DS Developer in [Aramco](https://www.aramco.com/)
 - [ArcTech](https://english.spbu.ru/news-events/news/st-petersburg-university-holds-final-arctic-technology-competition-arctech-data) conference 2023 winner 
 - [ADIPEC](https://www.semanticscholar.org/paper/Automated-Well-Log-Based-Prediction-of-Formation-of-Shakirov-Lipko/71cb44ff5b05a7c1691456af302fe4ec1136feb8) publisher: well log-based prediction of formation tops 
 - Developed algorithm for [exoskeleton](https://github.com/iamm3chanic/exoskeleton) movement optimization
